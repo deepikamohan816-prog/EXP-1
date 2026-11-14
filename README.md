@@ -58,17 +58,17 @@ Calculation:
 
 a.   KVL:
 
- <img width="1388" height="624" alt="kvl" src="https://github.com/user-attachments/assets/b5748766-16fc-42c5-9274-d3d61d7404b0" />
- 
-<img width="1260" height="1370" alt="kcl" src="https://github.com/user-attachments/assets/b93a2cd3-9655-45ae-89f4-8accd36f311b" />
+<img width="1504" height="1362" alt="kvl" src="https://github.com/user-attachments/assets/269550ea-a094-441f-889e-fc7d138d99a7" />
+
+<img width="1388" height="624" alt="kvl" src="https://github.com/user-attachments/assets/27d76776-fb60-4036-a4d0-bc522dbedc95" />
 
 
 
 b.  KCL:
 
-<img width="1200" height="1600" alt="kcl" src="https://github.com/user-attachments/assets/a8ba87b2-4c14-4f17-8eb9-c0b0f58ce767" />
+<img width="1260" height="1370" alt="kcl" src="https://github.com/user-attachments/assets/def1d07d-1ba8-4ce5-a923-084b5b570e1d" />
 
-<img width="1504" height="1362" alt="kvl" src="https://github.com/user-attachments/assets/49857eba-c49f-4d01-bcba-42c4d9754388" />
+<img width="1200" height="1600" alt="kcl" src="https://github.com/user-attachments/assets/282d3815-807f-4be0-b81c-3fc88953dc89" />
 
 
 
